@@ -18,7 +18,7 @@ class Transaction {
     }
 }
 
-public class week3week4 {
+public class Q1 {
 
     // 🔹 Bubble Sort (by fee)
     public static void bubbleSortByFee(ArrayList<Transaction> list) {
